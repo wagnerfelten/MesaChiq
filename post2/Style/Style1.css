@@ -1,0 +1,21 @@
+.board img {
+    background: #f1f1f1;
+    border-radius: 4px;
+    border: 1px solid #d8d8d8;
+    margin: auto;
+    padding: 20px;
+    max-width: fit-content;
+}
+
+.board p{
+    margin-bottom: 15px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.8;
+    margin-top: 8px;
+}
+
+.board h3{
+    margin-top: 8px;
+}
+
